@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = romainthiboudois@gmail.com
+	name = Romain Thiboudois
